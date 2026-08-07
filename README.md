@@ -25,7 +25,7 @@ engine from the same source file.
 
 ## One-time setup
 
-1. Build your corpus (from the earlier corpus-building guide):
+1. Build your corpus :
    ```bash
    pip install requests
    export ADAMS_API_KEY="your-subscription-key"
