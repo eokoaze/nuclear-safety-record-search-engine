@@ -1,0 +1,47 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+    # Uncomment to use an NVIDIA GPU:
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    depends_on:
+      - ollama
+    ports:
+      - "3000:8080"
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+    volumes:
+      - open_webui_data:/app/backend/data
+    restart: unless-stopped
+
+  analysis-engine:
+    build: ./analysis-engine
+    container_name: analysis-engine
+    ports:
+      - "8010:8010"
+    volumes:
+      - ./data:/app/data
+      - chroma_store:/app/chroma_store
+    environment:
+      - CORPUS_PATH=/app/data/corpus.jsonl
+    restart: unless-stopped
+
+volumes:
+  ollama_data:
+  open_webui_data:
+  chroma_store:

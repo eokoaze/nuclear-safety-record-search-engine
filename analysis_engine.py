@@ -125,8 +125,8 @@ def search(req: SearchRequest):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--corpus", default="corpus.jsonl")
-    parser.add_argument("--port", type=int, default=8010)
+    parser.add_argument("--corpus", default=os.environ.get("CORPUS_PATH", "corpus.jsonl"))
+    parser.add_argument("--port", type=int, default=int(os.environ.get("PORT", 8010)))
     args = parser.parse_args()
 
     if os.path.exists(args.corpus):

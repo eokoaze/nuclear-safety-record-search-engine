@@ -14,10 +14,11 @@ from pydantic import BaseModel, Field
 class Tools:
     class Valves(BaseModel):
         engine_url: str = Field(
-            default="http://host.docker.internal:8010",
+            default="http://analysis-engine:8010",
             description="Base URL of the independent analysis engine (analysis_engine.py). "
-                        "Use host.docker.internal if Open WebUI is in Docker and the engine "
-                        "runs on your host machine.",
+                        "Default assumes both containers are on the same docker-compose network "
+                        "(service name 'analysis-engine'). If running the engine outside Docker "
+                        "on your host instead, use http://host.docker.internal:8010.",
         )
         top_k: int = Field(default=5, description="Number of results to retrieve per search.")
 
