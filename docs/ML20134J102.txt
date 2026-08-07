@@ -1,0 +1,33 @@
+Accession Number: ML20134J102
+Title: LER 2020-001-00 for Vogtle Electric Generating Plant, Unit 1, Safety-Related Electrical Bus Deenergizing Results in Emergency Diesel Generator Starting
+Document Type: Inspection Report, Licensee Event Report (LER)
+Document Date: 2020-05-13
+Docket Number: 05000424
+Author: ['Thomas J'] (['Southern Nuclear Operating Co, Inc'])
+URL: https://www.nrc.gov/docs/ML2013/ML20134J102.pdf
+----------------------------------------
+
+
+~ Southern Nuclear 
+
+May 13, 2020 
+
+Docket No: 50-424 
+
+U.S. Nuclear Regulatory Commission 
+ATTN: Document Control Desk 
+Washington, D.C. 20555-0001 
+
+Jesse Thomas 
+Vice President 
+Vogtle Units 1-2 
+
+Vogtle Electric Generating Plant - Unit 1 
+Licensee Event Report 2020-001-00 
+
+Safety-Related electrical bus deenergizing results in 
+Emergency Diesel Generator Starting 
+
+Ladies and Gentlemen: 
+
+782

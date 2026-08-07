@@ -1,0 +1,38 @@
+Accession Number: ML15058A695
+Title: IR 07007020-15-001 on 2/25/15, Sensor Concepts & Applications, Inc., Glen Army, MD, 591M Part 1.
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2015-02-25
+Docket Number: 07007020
+Author: ['Ullrich E'] (['NRC/RGN-I/DNMS'])
+URL: https://www.nrc.gov/docs/ML1505/ML15058A695.pdf
+----------------------------------------
+
+
+NRC FORM 591M PART 1 
+(07-2012)' 
+10 CFR 2.201 
+
+U.S. NUCLEAR REGULATORY COMMISSION 
+
+SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+
+1. LICENSEE/LOCATION INSPECTED: 2. NRG/REGIONAL OFFICE 
+Sensor Concepts & Applications, Inc. 
+5200 Glen Arm Road, Suite A 
+Glen Army, Maryland 21057 
+
+REPORT NUMBER(S) 
+
+~- DOCKET NUMBER(S) 
+
+070-07020 
+
+LICENSEE: 
+
+2015-001 
+
+1
+
+4. LICENSE NUMBER(S) 
+
+SNM-201

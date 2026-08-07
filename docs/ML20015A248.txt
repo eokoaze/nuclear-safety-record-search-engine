@@ -1,0 +1,29 @@
+Accession Number: ML20015A248
+Title: Department of the Army, NRC Form 591M Part 1, Inspection No. 03036195/2019001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2020-01-09
+Docket Number: 03036195
+Author: ['Wardrobe L'] (['NRC/RGN-I'])
+URL: https://www.nrc.gov/docs/ML2001/ML20015A248.pdf
+----------------------------------------
+
+
+{ 
+
+NRC FORM 591M PART' U.S. NUCLEAR REGULATORY COMMISSION 
+(07-2012)* ' 
+10 CFR2.201 
+
+SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+
+1. LICENSEE/LOCATION INSPECTED: 
+Department of the Army 
+U.S. Army Aviation and Missile Command 
+ATTN: AMSAM-SFO-R 
+5300 Martin Road 
+Redstone Arsenal, Alabama 35898-5000 
+
+2. NRC/REGIONAL OFFICE 
+
+U.S. Nuclear Regulatory Commission 
+Region I, 2100 Renaissan

@@ -1,0 +1,27 @@
+Accession Number: ML25149A220
+Title: IMC 0610 Attachment 2, Nuclear Materials Inspection Documentation
+Document Type: Inspection Report
+Document Date: 2025-06-27
+Docket Number: 
+Author: ['Anderson S'] (['NRC/NMSS/DDUWP/RDB'])
+URL: https://www.nrc.gov/docs/ML2514/ML25149A220.pdf
+----------------------------------------
+
+
+   
+ 
+
+Issue Date: 06/27/25 1 0610 Att 2 
+
+ NRC INSPECTION MANUAL RDB 
+
+INSPECTION MANUAL CHAPTER 0610 ATTACHMENT 2 
+
+NUCLEAR MATERIALS INSPECTION DOCUMENTATION 
+
+Effective Date: 07/01/2025 
+
+0610.02-01 GENERAL PURPOSE 
+
+Inspection documentation for the nuclear materials user (NMU) business line is described in 
+IMC 2800, “Materials Inspection Program.” IMC 2800, Section 2800-09, “Documentation o

@@ -1,0 +1,25 @@
+Accession Number: ML15223B264
+Title: Part 21 Report - Notification of Deviation Regarding HK Circuit Breaker Pivot Pin.
+Document Type: Deficiency Report (per 10CFR50.55e and Part 21), E-Mail, Letter, Part 21 Correspondence
+Document Date: 2015-08-06
+Docket Number: 05000280, 05000281, 05000327, 05000328, 05000341, 05000352, 05000353
+Author: ['Brown D C'] (['ABB, Inc'])
+URL: https://www.nrc.gov/docs/ML1522/ML15223B264.pdf
+----------------------------------------
+
+
+08/06/2015 08/06/2015 U.S. Nuclear Regulatory Commission Operations Center Event Report PrPa
+
+Part 21 (PAR) Event # 51293
+
+Rep Org: ABB INC. (MEDIUM VOLTAGE SERVICE) Notification Date I Time: 08/06/2015 14:23 (EDT)
+
+Supplier: ABB INC. (MEDIUM VOLTAGE SERVICE) Event Date!/ Time: 08/06/2015 (EDT)
+
+Last Modification: 08/06/2015
+
+Region: 1 Docket #:
+
+City: FLORENCE Agreement State: Yes
+
+County: Licen

@@ -1,0 +1,26 @@
+Accession Number: ML21189A225
+Title: Bridgeport Hospital, NRC Form 591M Part 1, Inspection Report No. 03001247/2021001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2021-05-10
+Docket Number: 03001247
+Author: ['Elliott R L'] (['NRC/RGN-I'])
+URL: https://www.nrc.gov/docs/ML2118/ML21189A225.pdf
+----------------------------------------
+
+
+NRC FORM 591MPART1 U.S.NUCLEARREGULATORYCOMMISSION
+(07-2012)
+10CFR 2.201 Wm MPEUM EPOU MD WMPUM MPEUM
+1.LICENSEE/LOCATION INSPECTED 2.NRC/REGIONALOFFICE
+
+BridgeportHospital Region1
+267GrantStreet 2100RenaissanceBlvd
+Bridgeport,CT06610-0120 Suite100
+
+KingofPrussia,PA19406-2713
+
+REPORTNUMBER(s)2021001
+
+3.DOCKETNUMBER(S) 4. LICENSE NUMBER(S) 5.DATE(S)OFINSPECTION
+
+030-01247 06-01060-01 05/10/2021- 0

@@ -1,0 +1,26 @@
+Accession Number: ML17179A378
+Title: TE Connectivity - Part 21 Transfer of Information TE-023.
+Document Type: Deficiency Report (per 10CFR50.55e and Part 21), Part 21 Correspondence
+Document Date: 2017-06-07
+Docket Number: 05000171, 05000219, 05000259, 05000260, 05000263, 05000266, 05000277, 05000278, 05000293, 05000296, 05000301, 05000321, 05000327, 05000328, 05000352, 05000353, 05000366, 05000387, 05000388, 05000390, 05000397, 05000400, 05000458
+Author: ['Ducker T'] (['TE Connectivity'])
+URL: https://www.nrc.gov/docs/ML1717/ML17179A378.pdf
+----------------------------------------
+
+
+0611712017 U.S. Nuclear Regulatory Commission Operations Center Event Report Pagel 
+
+Part 21 (PAR) Event# 52810 
+
+Rep Org: TE CONNECTIVITY Notification Date I Time: 06/16/2017 12:04 (EDT) 
+Supplier: TE CONNECTIVITY Event Date I Time: 06/02/2017 (EDT) 
+
+Last Modification: 06/16/2017 
+
+Region: 1 Docket#: 
+City: FAIRVIEW Agreement State: Yes 
+
+County: License#: 
+State: NC 
+
+NRC Notified by: TERRY DU

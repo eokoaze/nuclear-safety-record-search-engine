@@ -1,0 +1,33 @@
+Accession Number: ML15061A034
+Title: Attachment 3 - Final NDE Inspection Reports.
+Document Type: Inspection Report
+Document Date: 2015-02-25
+Docket Number: 05000395
+Author: [] (['South Carolina Electric & Gas Co'])
+URL: https://www.nrc.gov/docs/ML1506/ML15061A034.pdf
+----------------------------------------
+
+
+Document Control Desk
+Attachment 3
+CR-12-00556
+RC-15-0020
+164 pages
+
+South Carolina Electric & Gas Co. (SCE&G)
+Virgil C. Summer Nuclear Station Unit 1 (VCSNS)
+
+Attachment 3
+Final NDE Inspection Reports
+
+Steam Generator A C B
+
+Shop Order Number SG3L-12148 SG3L-12149 SG3L-12150
+
+Lower Assembly S/N 2984J 2985J 2986J
+
+Channel Head Assembly 3591J 3589J 3590J
+S/N
+
+Channel Head Forging RW27 RV85 RW21
+He

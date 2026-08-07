@@ -1,0 +1,27 @@
+Accession Number: ML18122A355
+Title: Scientific Technical, Inc., NRC Form 591 Part 1, Inspection Report 03029667/2018002.
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2018-04-23
+Docket Number: 03029667
+Author: ['Reichard M C'] (['NRC/RGN-I/DNMS/CRDB'])
+URL: https://www.nrc.gov/docs/ML1812/ML18122A355.pdf
+----------------------------------------
+
+
+.. 
+NRC FORM 591M PART 1 
+(07-2012)* 
+10 CFR 2.201 SAFETY INSPECTION REPORT AND COMPLIANCE l:::~:~:REGULATORY COMMISSIO/ 
+1. LICENSEE/LOCATION INSPECTED: 
+
+Scientific Technical, Inc. 
+804-F Industrial Avenue 
+Chesapeake, Virginia 23324 
+
+REPORT NUMBER(S) 2018-002 
+
+2. NRG/REGIONAL OFFICE 
+
+U.S. Nuclear Regulatory Commission 
+Region I, 2100 Renaissance Blvd, Suite 100 
+King of Prussia, Pennsylvani

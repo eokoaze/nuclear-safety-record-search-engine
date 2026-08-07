@@ -1,0 +1,23 @@
+Accession Number: ML21172A252
+Title: Perma-fix Environmental Services, NRC Form 591M Part 1, Inspection Report No. 03039147/2021001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2021-05-17
+Docket Number: 03039147
+Author: ['Courtemanche S'] (['NRC/RGN-I'])
+URL: https://www.nrc.gov/docs/ML2117/ML21172A252.pdf
+----------------------------------------
+
+
+NRC FORM 591MPART1 U.S.NUCLEARREGULATORYCOMMISSION
+(07-2012)
+10CFR 2.201 MFm MPEBM EPET MD GMPUMG MPEBM
+1.LICENSEE/LOCATION INSPECTED 2.NRC/REGIONALOFFICE
+
+Perma-FixEnvironmental Services,Inc. Region1
+1093CommercePark Drive 2100RenaissanceBlvd
+Suite300 Suite100
+OakRidge,TN37830 KingofPrussia,PA19406-2713
+
+REPORTNUMBER(s)2021001
+3.DOCKETNUMBER(S) 4. LICENSENUMBER(S) 5.DATE(S)OFINSPECTION
+030-39147

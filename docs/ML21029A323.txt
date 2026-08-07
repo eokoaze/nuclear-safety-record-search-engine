@@ -1,0 +1,26 @@
+Accession Number: ML21029A323
+Title: Peabody Midwest Mining, LLC - NRC Form 592M, Inspection Report 03032790/2021001 (DNMS)
+Document Type: Inspection Report
+Document Date: 2021-01-28
+Docket Number: 03032790
+Author: ['Craffey R'] (['NRC/RGN-I/DNMS'])
+URL: https://www.nrc.gov/docs/ML2102/ML21029A323.pdf
+----------------------------------------
+
+
+NRC FORM 592M U.S.NUCLEARREGULATORYCOMMISSION
+(10-2020) w
+
+( MaterialsInspectionRecord
+
+1.LicenseeName: 2.DocketNumber(s): 3.LicenseNumber(s)
+
+PeabodyMidwest Mining, LLC 030-32790 13-15133-05
+4.ReportNumber(s): 5.Date(s)ofInspection:
+
+2021-001 January28,2021
+6.inspector(s): 7.ProgramCode(s): 8.Priority:9.inspectionGuidanceUsed:
+
+RyanCraffey 03120 5 87124
+
+10.LicenseeContactName(s): 11.Licensee E-

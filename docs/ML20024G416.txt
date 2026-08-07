@@ -1,0 +1,35 @@
+Accession Number: ML20024G416
+Title: Nuclear Regulatory Commission Vendor Inspection Report Of Rosemount Nuclear Instruments, Inc. No. 99900271/2019-201 And Notice Of Nonconformance
+Document Type: Inspection Report, Letter, Notice of Non-Conformance
+Document Date: 2020-01-27
+Docket Number: 99900271
+Author: ['Kavanagh K A'] (['NRC/NRR/DRO/IQVB'])
+URL: https://www.nrc.gov/docs/ML2002/ML20024G416.pdf
+----------------------------------------
+
+
+ 
+
+ 
+
+ 
+ 
+
+January 27, 2020 
+ 
+ 
+Mr. Jeff Chivers  
+Director of Engineering and Quality 
+Rosemount Nuclear Instruments, Inc. 
+8200 Market Blvd 
+Chanhassen, MN 55317 
+ 
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION REPORT OF 
+
+ROSEMOUNT NUCLEAR INSTRUMENTS, INC. NO. 99900271/2019-201 AND 
+NOTICE OF NONCONFORMANCE 
+
+ 
+Dear Mr. Chivers: 
+ 
+From December 9 through December 12, 2019, the U.

@@ -1,0 +1,26 @@
+Accession Number: ML15022A650
+Title: Letter from Steven R. Eisenberg re: USNRC 10CFR Part 21 Notification.
+Document Type: Deficiency Report (per 10CFR50.55e and Part 21), Letter, Part 21 Correspondence
+Document Date: 2015-01-20
+Docket Number: 05000010, 05000171, 05000206, 05000220, 05000237, 05000249, 05000254, 05000255, 05000261, 05000265, 05000266, 05000272, 05000277, 05000278, 05000280, 05000281, 05000282, 05000293, 05000298, 05000301, 05000306, 05000311, 05000313, 05000315, 05000316, 05000327, 05000328, 05000331, 05000333, 05000335, 05000338, 05000339, 05000352, 05000353, 05000354, 05000361, 05000362, 05000368, 05000389, 05000410, 05000416, 05000417, 05000424, 05000425, 05000440, 05000441, 05000454, 05000455, 05000456, 05000457, 05000458, 05000482, 05000498, 05000499
+Author: ['Eisenberg S R'] (['National Technical Systems, Inc'])
+URL: https://www.nrc.gov/docs/ML1502/ML15022A650.pdf
+----------------------------------------
+
+
+0 PI TSwwntco
+January 20, 2015
+
+Document Control Desk
+US Nuclear Regulatory Commission
+Washington, DC 20555-0001
+
+SUBJECT: USNRC 1OCFR Part 21 Notification
+
+REFERENCE: NTS CPAR 13-23
+
+Firmware Notice for users of Yokogawa DX1000N and DX2000 Model Recorders
+
+The purpose of this letter is to provide an amendment to our 1OCFR Part 21 Notification made
+
+originally on July 19, 2013. Specifically, the 

@@ -1,0 +1,28 @@
+Accession Number: ML16193A390
+Title: Donald C. Cook Nuclear Plant Unit 2 - A Loss of Main Condenser Event Occurred Due to a Storm-Induced Debris Damage of the Circulating Water System Pumps in the Forebay (LER-316-2014-003-00).
+Document Type: Inspection Report, Licensee Event Report (LER)
+Document Date: 2016-07-15
+Docket Number: 05000315, 05000316
+Author: ['Chelliah E'] (['NRC/RES/DRA/PRB'])
+URL: https://www.nrc.gov/docs/ML1619/ML16193A390.pdf
+----------------------------------------
+
+
+ 
+1 
+
+Precursor Screening Analysis - Reject 
+Accident Sequence Precursor Program – Office of Nuclear Regulatory Research 
+
+ 
+
+Donald C. Cook 
+Nuclear Plant Unit 2 
+
+A loss of main condenser event occurred due to a storm-induced 
+debris damage of the circulating water system pumps in the 
+forebay. 
+
+Event Date: 11/01/2014   LER: 316-2014-003-00   IR: 05000316/2015001   
+
+Plant Type: WESTINGHOUSE P

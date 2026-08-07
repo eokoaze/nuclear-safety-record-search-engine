@@ -1,0 +1,26 @@
+Accession Number: ML16328A313
+Title: ABB Providing 2nd Update to Part 21 Notification re Potential Defect of KF Relay Zero Period Acceleration (ZPA) Rating.
+Document Type: Deficiency Report (per 10CFR50.55e and Part 21), Part 21 Correspondence
+Document Date: 2016-11-17
+Docket Number: 
+Author: ['Batovsky D'] (['ABB Group'])
+URL: https://www.nrc.gov/docs/ML1632/ML16328A313.pdf
+----------------------------------------
+
+
+1111712016 U.S. Nuclear Regulatory Commission Operations Center Event Report Pagel 
+
+Part 21 (PAR) Event# 50691 
+
+Rep Org: ABB GROUP Notification Date I Time: 12/17/2014 17:38 (EST) 
+Supplier: ABB GROUP Event Date I Time: 12/17/2014 (EST} 
+
+Last Modification: 11/17/2016 
+
+Region: 1 Docket#: 
+City: CORAL SPRINGS Agreement State: Yes 
+
+County: License#: 
+State: FL 
+
+NRC Notified by: DENNIS BATOVSKY

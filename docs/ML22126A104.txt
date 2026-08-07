@@ -1,0 +1,26 @@
+Accession Number: ML22126A104
+Title: Turkey Point, Unit 3 - Steam Generator Tube Inspection Report
+Document Type: Inspection Report, Letter
+Document Date: 2022-05-06
+Docket Number: 05000250
+Author: ['Lesniak T'] (['Florida Power & Light Co'])
+URL: https://www.nrc.gov/docs/ML2212/ML22126A104.pdf
+----------------------------------------
+
+
+U. S. Nuclear Regulatory Commission 
+Attn: Document Control Desk 
+Washington, D.C. 20555-00001 
+
+Re: Turkey Point Unit 3 
+Docket No. 50-250 
+Steam Generator Tube Inspection Report 
+
+May 6, 2022 
+L-2022-072 
+
+10 CFR 50.36 
+
+The attached Turkey Point Unit 3 Cycle 32 Refueling Outage Steam Generator Tube 
+Inspection Report is submitted in accordance with Turkey Point Technical Specification, 
+6.9.1.

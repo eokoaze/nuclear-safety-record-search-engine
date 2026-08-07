@@ -1,0 +1,31 @@
+Accession Number: ML20036D709
+Title: CBC Engineers & Associates, Ltd. - NRC Form 591M Parts 1 & 3, Inspection Reports 03035192/2019001 & 2020001 (DNMS).
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2019-11-20
+Docket Number: 03035192
+Author: ['Craffey R', 'Gordon C'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2003/ML20036D709.pdf
+----------------------------------------
+
+
+NRC FORM 591 M PART 1 
+(07-2012) 
+
+U.S. NUCLEAR REGULATORY COMMISSION 
+
+10 CFR 2.201 SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+
+1. LICENSEE/LOCATION INSPECTED 
+
+CBC Engineers & Associates, Ltd. 
+125 Westpark Road 
+Centerville, OH 45449 
+Locations inspected: Racine, \NV and Centerville, OH 
+
+REPORT NUMBER(S) 2019001 and 2020001 
+
+2. NRC/REGIONAL OFFICE 
+
+Region 3 
+
+2443 Warrenville Road 

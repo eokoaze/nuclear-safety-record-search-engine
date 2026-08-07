@@ -1,0 +1,22 @@
+Accession Number: ML17342A354
+Title: IR 71-09228/2017-202, November 06-07, 2017, at Wilmington, NC, NRC Form 591s, Safety Inspection Report and Compliance Inspection, Inspector's Notes and Cover Sheet (Docket No. 07100254).
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2017-11-07
+Docket Number: 07100254
+Author: ['Love E C'] (['NRC/NMSS/DSFM/IOB'])
+URL: https://www.nrc.gov/docs/ML1734/ML17342A354.pdf
+----------------------------------------
+
+
+
+
+
+
+
+
+described in design base record (DBR) No. 0027087, revision 1, "Disposition Responses for GE 
+2000 HPI Body Assembly, DDR-437098797-008 / 009." The tern noted that HPI Body Licensing 
+Drawing, 001 N8425, revision 1 was updated to reflect discredited welds. 
+
+The inspector noted that GEH performed a technical evaluation to address HPl-001 
+manufacturing dimensions found not to be in complian

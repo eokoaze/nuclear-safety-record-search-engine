@@ -1,0 +1,23 @@
+Accession Number: ML23293A275
+Title: NAMCO Controls Nuclear Regulatory Commission Inspection Report No. 99901470/2023-201, Notice of Nonconformance
+Document Type: Inspection Report, Letter, Notice of Non-Conformance
+Document Date: 2023-11-03
+Docket Number: 99901470
+Author: ['Kavanagh K A'] (['NRC/NRR/DRO/IQVB'])
+URL: https://www.nrc.gov/docs/ML2329/ML23293A275.pdf
+----------------------------------------
+
+
+Mr. Cornell Turrentine
+Quality Manager
+Namco Controls
+2100 West Broad Street
+Elizabethtown, NC 28337
+
+SUBJECT: NAMCO CONTROLS NUCLEAR REGULATORY COMMISSION INSPECTION 
+REPORT NO. 99901470/2023-201, AND NOTICE OF NONCONFORMANCE
+
+Dear Mr. Turrentine:
+
+On September 25-29, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an 
+inspection at the Namco Controls (hereafter referred to as Namco

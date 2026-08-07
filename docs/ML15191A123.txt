@@ -1,0 +1,20 @@
+Accession Number: ML15191A123
+Title: IR 03032323/2012005, 09/18/2012, University of Idaho, Form 591M Part 1.
+Document Type: Inspection Report, Memoranda, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2015-07-09
+Docket Number: 03032323
+Author: ['Razo J M', 'VonEhr J E'] (['NRC/RGN-IV/DNMS'])
+URL: https://www.nrc.gov/docs/ML1519/ML15191A123.pdf
+----------------------------------------
+
+
+MEMORANDUM TO FILE: University of Idaho, License #11-27382-01
+
+DATE: July 9, 2015
+
+FROM: Jason vonEhr, Health Physicist, Nuclear Materials Inspection Branch, RIV
+
+SUBJECT: Correction to September 18, 2012 591 M Part 1 license number
+
+The University of Idaho was inspected by Region IV on September 18, 2012 at their Main
+Campus in Moscow, Idaho. The inspection report was uploaded into ADAMS on Octo

@@ -1,0 +1,28 @@
+Accession Number: ML23278A211
+Title: Diablo Canyon Power Plant, Units 1 And 2 - Information Request For The Cybersecurity Baseline Inspection, Notification To Perform Inspection (050002752024015 And 050003232024015)
+Document Type: Inspection Report, Letter, Request for Additional Information (RAI)
+Document Date: 2023-10-10
+Docket Number: 05000275, 05000323
+Author: ['Graves S'] (['NRC/RGN-IV/DORS/EB2'])
+URL: https://www.nrc.gov/docs/ML2327/ML23278A211.pdf
+----------------------------------------
+
+
+UNITED STATES
+NUCLEAR REGULATORY COMMISSION
+
+REGION IV
+1600 EAST LAMAR BOULEVARD
+ARLINGTON, TEXAS 76011-4511
+
+October 10, 2023
+Paula A. Gerfen
+Senior Vice President, Generation
+ and Chief Nuclear Officer 
+Pacific Gas and Electric Company
+P.O. Box 56
+Mail Code 104/6
+Avila Beach, CA 93424
+
+SUBJECT:  DIABLO CANYON POWER PLANT, UNITS 1 AND 2 – INFORMATION 
+REQUEST FOR THE CYBERSECURITY BASELINE INSPE

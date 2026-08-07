@@ -1,0 +1,29 @@
+Accession Number: ML17138A392
+Title: Petnet Solutions Inc. - NRC Form 591M Parts 1 & 3, Inspection Report 03038346/2017001.
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2017-05-03
+Docket Number: 03038346
+Author: ['Folch L N'] (['PETNET Solutions, Inc'])
+URL: https://www.nrc.gov/docs/ML1713/ML17138A392.pdf
+----------------------------------------
+
+
+.. ------------------------------------------------------------------
+
+NRC FORM 591 M PART 1 U.S. NUCLEAR REGULATORY COMMISSION 
+(07-2012) 
+10 CFR 2.201 SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+1. LICENSEE/LOCATION INSPECTED: 
+
+PETNET Solutions, Inc. 
+81 0 Innovation Drive 
+Knoxviiie, Tennessee 37932 
+
+REPORT NUMBER(S) 20 1700 I 
+3. DOCKET NUMBER(S) 
+
+030-38346 
+
+LICENSEE: 
+
+2. NRC/REG

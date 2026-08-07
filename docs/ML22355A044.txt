@@ -1,0 +1,30 @@
+Accession Number: ML22355A044
+Title: Michigan State University, NRC Form 591M, Inspection Report 03031952/2022001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2022-11-15
+Docket Number: 03000806
+Author: ['Craffey R'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2235/ML22355A044.pdf
+----------------------------------------
+
+
+Digitally signed by Rhex A. Edwards 
+Date: 2022.12.16 12:33:22 -06'00'
+
+Digitally signed by Patrick Wright 
+DN: cn=Patrick Wright, o, ou, email=wrigh270@msu.edu, c=US 
+Date: 2022.12.16 14:59:19 -05'00'
+
+Digitally signed by Ryan J. Craffey 
+Date: 2022.12.01 18:33:19 -05'00'
+
+
+
+
+
+Digitally signed by Rhex A. Edwards 
+Date: 2022.12.16 12:32:30 -06'00'
+
+
+	NRC 591M - MSU (Broad Scope) flat
+	NRC 592M - 

@@ -1,0 +1,27 @@
+Accession Number: ML15223B266
+Title: Part 21 Report - Crane Nuclear Pressure Seal Valve with Retaining Rings.
+Document Type: Deficiency Correspondence (per 10CFR50.55e and Part 21), Letter, Part 21 Correspondence
+Document Date: 2015-08-07
+Docket Number: 05000206, 05000259, 05000260, 05000296, 05000321, 05000361, 05000362, 05000366
+Author: ['Klein J'] (['Crane Nuclear, Inc'])
+URL: https://www.nrc.gov/docs/ML1522/ML15223B266.pdf
+----------------------------------------
+
+
+08/07/2015 U.S. Nuclear Regulatory Commission Overations Center Event Renort Pfi•rp 7
+
+Part 21 (PAR) Event # 51296
+
+Rep Org: CRANE NUCLEAR, INC Notification Date I Time: 08/06/2015 20:00 (EDT)
+Supplier: CRANE NUCLEAR, INC Event Date / Time: 02/20/2015 (CDT)
+
+Last Modification: 08/06/2015
+
+Region: 3 Docket #:
+City: BOLINGBROOK Agreement State: Yes
+
+County: License #:
+
+State: IL
+
+NRC Notified by: J

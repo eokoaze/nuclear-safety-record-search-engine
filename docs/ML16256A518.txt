@@ -1,0 +1,34 @@
+Accession Number: ML16256A518
+Title: NRC Initial IR 03038856/2016001 (DNMS), 08/25/2016 - Performance Engineers, Ltd.
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2016-08-25
+Docket Number: 03038856
+Author: ['Harvey E F'] (['NRC/RGN-III/DNMS/MIB'])
+URL: https://www.nrc.gov/docs/ML1625/ML16256A518.pdf
+----------------------------------------
+
+
+NRC FORM 591M PART 1 U.S. NUCLEAR REGULA TORY COMMISSION 
+(07-2012) 
+10 CFR 2.201 SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+1. LICENSEE/LOCATION INSPECTED: 
+
+Performance Engineers, Inc. 
+406 Petoskey A venue 
+Charlevoix, MI 49720 
+
+REPORT NUMBER(S) 2016001 
+3. DOCKET NUMBER(S) 
+
+030-38856 
+
+LICENSEE: 
+
+2. NRC/REGIONAL OFFICE 
+
+4. LICENSE NUMBER(S) 
+
+21-35258-01 
+
+Region III 
+U.S. Nuclea

@@ -1,0 +1,29 @@
+Accession Number: ML18254A404
+Title: Midwest Engineering and Testing, Inc. - NRC Form 591M Parts 1 & 3, Inspection Report 15000012/2018003 (DNMS).
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2018-08-31
+Docket Number: 15000012
+Author: ['Craffey R', 'Draper J'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML1825/ML18254A404.pdf
+----------------------------------------
+
+
+NRC FORM 591M PART 1 U.S. NUCLEAR REGULATORY COMMISSION 
+(07-2012) 
+
+10CFR2.201 SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+
+1. LICENSEE/LOCATION INSPECTED: 
+
+Midwest Engineering and Testing, Inc 
+501 Mercury Drive 
+Champaign, IL 61822 
+
+REPORT NUMBER(S) 2018003 
+
+2. NRG/REGIONAL OFFICE 
+
+Region III 
+U.S. Nuclear Regulatory Commission 
+2443 Warrenville Road, Suite 210 
+Lisle, IL 60532-435

@@ -1,0 +1,22 @@
+Accession Number: ML21334A121
+Title: Limerick - 2022 Problem Identification and Resolution Documentation Request
+Document Type: Inspection Report Correspondence
+Document Date: 2022-03-09
+Docket Number: 05000352, 05000353
+Author: ['Haney S I'] (['NRC/RGN-I/DORS'])
+URL: https://www.nrc.gov/docs/ML2133/ML21334A121.pdf
+----------------------------------------
+
+
+1 
+
+Problem Identification and Resolution Inspection Supporting Documentation 
+
+General: 
+
+* 1 Organization charts and phone list (available for review and use).
+* 2 List of system numbers/designations, risk-ranking of systems and a list of system
+
+engineers with assigned systems (available for review and use). 
+3 List of system prints (P&IDs). 
+4 Electronic copies of Final Safety Analysis Report

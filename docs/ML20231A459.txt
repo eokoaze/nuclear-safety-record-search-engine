@@ -1,0 +1,23 @@
+Accession Number: ML20231A459
+Title: Industrial Maintenance Engineering, Inc d/b/a AIS Gauging - NRC Form 591M Parts 1 & 3, Inspection Report 03034598/2020001 (DNMS).
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2020-08-05
+Docket Number: 03034598
+Author: ['Gattone R G'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2023/ML20231A459.pdf
+----------------------------------------
+
+
+NRC FORM591MPART1 U.S.NUCLEARREGULATORYCOMMISSION
+(07-2012)
+10CFR 2.201 SAFETYINSPECTIONREPORTANDCOMPLIANCEINSPECTION
+1.LICENSEE/LOCATION INSPECTED: 2.NRC/REGIONALOFFICE
+
+IndustrialMaintenance Engineering,Inc.d/b/aAISGauging RegionIII
+5350N 13thStreet U.S.NuclearRegulatoryCommission
+TerreHaute,IN47805 2443WarrenvilleRoad,Suite210
+
+Lisle,IL60532-4352
+REPORTNUMBER(S)20-01
+
+3.DOCKETNUMBER(S) 4.LICEN

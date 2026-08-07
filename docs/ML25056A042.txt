@@ -1,0 +1,17 @@
+Accession Number: ML25056A042
+Title: San Patricio MRI & CT Center dba San Patricio MEDFLIX; NRC Form 591M Part 1, Inspection Report No. 03037226/2025001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2025-02-06
+Docket Number: 03037226
+Author: ['Stowell V A'] (['NRC/RGN-I'])
+URL: https://www.nrc.gov/docs/ML2505/ML25056A042.pdf
+----------------------------------------
+
+
+
+
+A. An amendment will be submitted to the NRC to include the PET/CT area in the San Patricio MEDFLIX material license 52-31166-01. This     will 
+include an updated facility diagram.
+
+B. The disposal of license material process and record keeping of the disposals will be reviewed with the nuclear medicine staff. This will be done to:
+    •  Maintain a record of their surveys of background-decaye

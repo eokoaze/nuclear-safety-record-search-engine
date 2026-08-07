@@ -1,0 +1,31 @@
+Accession Number: ML23031A293
+Title: 2022 IP 96001 IR Report 8
+Document Type: Inspection Report
+Document Date: 2023-02-02
+Docket Number: 
+Author: [] (['NRC/NSIR/DSO/SPEB'])
+URL: https://www.nrc.gov/docs/ML2303/ML23031A293.pdf
+----------------------------------------
+
+
+Baseline Inspection Completion with Certification Information 
+By Site
+
+IR Report 8
+
+Region No: 2        Site: 07000143 - Nuclear Fuel Services, Inc. 
+(NFS)
+
+IPC Cycle: 2022
+
+Procedure IPE Code Title Frequency
+Sample 
+Completed
+
+IMC Min 
+Completion 
+Sample % Status Note Certify Date / By
+
+96001 SG NRC FOF Insp CAT I Fuel Cycle Triennial 1 0 0% Complete C 06/09/2022 - Berry, Joshua K
+
+Site Totals:

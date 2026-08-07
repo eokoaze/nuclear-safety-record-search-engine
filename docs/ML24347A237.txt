@@ -1,0 +1,24 @@
+Accession Number: ML24347A237
+Title: Joseph M Farley Nuclear Plant - Cyber Security Inspection Report 05000348/2024402 and 05000364/2024402
+Document Type: Inspection Report, Letter
+Document Date: 2024-12-13
+Docket Number: 05000348, 05000364
+Author: ['Bacon D M'] (['NRC/RGN-II/DORS'])
+URL: https://www.nrc.gov/docs/ML2434/ML24347A237.pdf
+----------------------------------------
+
+
+Edwin D. Dean
+Site Vice President
+Southern Nuclear Operating Co., Inc.
+Joseph M. Farley Nuclear Plant
+7388 North State Highway 95
+Columbia, AL 36319-0470
+
+SUBJECT: JOSEPH M. FARLEY NUCLEAR PLANT – CYBER SECURITY INSPECTION 
+REPORT 05000348/2024402 AND 05000364/2024402
+
+Dear Edwin Dean:
+
+On December 5, 2024, the U.S. Nuclear Regulatory Commission (NRC) completed a cyber-
+security inspection at Jos

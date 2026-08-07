@@ -1,0 +1,37 @@
+Accession Number: ML17165A406
+Title: Part 21 - Potential Defect in Grayboot Socket Contacts.
+Document Type: Deficiency Report (per 10CFR50.55e and Part 21), Part 21 Correspondence
+Document Date: 2017-06-09
+Docket Number: 
+Author: ['Bledsoe S', 'Gill T'] (['Curtiss-Wright Nuclear Division'])
+URL: https://www.nrc.gov/docs/ML1716/ML17165A406.pdf
+----------------------------------------
+
+
+-· 
+
+0610912017 U.S. Nuclear Regulatory Commission Operations Center Event Report 
+
+Part 21 (PAR) 
+
+Rep Org: CURTISS WRIGHT FLOW CONTROL CO. 
+Supplier: CURTISS-WRIGHT 
+
+Region: 1 
+
+Event# 
+
+Notification Date I Time: 05/15/2017 18:55 
+Event Date I Time: 03/16/2017 
+
+Last Modification: 06/09/2017 
+
+Docket#: 
+City: HUNTSVILLE 
+
+County: 
+Agreement State: Yes 
+
+State: AL 
+
+. NRC Notified by: TONY GILL

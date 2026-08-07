@@ -1,0 +1,21 @@
+Accession Number: ML24131A083
+Title: Framatome Document Request for May 13 Inspection
+Document Type: E-Mail, Inspection Report Correspondence
+Document Date: 2024-04-12
+Docket Number: 07001257
+Author: ['Sippel T J'] (['NRC/RGN-II/DFFI/FFB1'])
+URL: https://www.nrc.gov/docs/ML2413/ML24131A083.pdf
+----------------------------------------
+
+
+From: Timothy Sippel
+To: timothy.tate@framatome.com
+Cc: Gregg Goff; DOANE William (Framatome)
+Subject: Document Request for May 13 Inspection
+Date: Friday, April 12, 2024 11:39:00 AM
+Attachments: 2024-002 Fram NCS-TRANS Document Request.docx
+
+Tim,
+ 
+I’ll be conducting a nuclear criticality safety inspection at your facility during the week of May
+13, 2024. Which will use Inspection Procedure (IP)

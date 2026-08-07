@@ -1,0 +1,37 @@
+Accession Number: ML19092A219
+Title: Epson America Inc. - NRC Form 591M Parts 1 & 3, Inspection Report 03037819/2019001 (DNMS).
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2019-03-20
+Docket Number: 03037819
+Author: ['Folch L N'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML1909/ML19092A219.pdf
+----------------------------------------
+
+
+NRC FORM 691M PART 1 U.S. NUCLEAR REGULATORY COMMISSION 
+
+SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+(07-2012) 
+10CFR2.201 
+
+1. LICENSEE/LOCATION INSPECTED: 
+
+Epson America, Inc. 
+3840 Kilroy Airport Way 
+Long Beach, CA 90806 
+
+REPORT NUMBER(S) 2019001 
+3. DOCKET NUMBER(S) 
+
+030-37819 
+
+LICENSEE: 
+
+2. NRC/REGIONAL OFFICE 
+
+4. LICENSE NUMBER(S) 
+
+04-32710-01 
+
+Region Ill 
+U.S. Nuclear Reg

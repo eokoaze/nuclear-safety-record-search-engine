@@ -1,0 +1,26 @@
+Accession Number: ML19291C776
+Title: NRC Form 591S - Safety Inspection Report and Compliance With Attached Inspector Notes For Orano TN Americas
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2019-07-22
+Docket Number: 07201004, 07201021, 07201027, 07201029, 07201030, 07201042
+Author: ['Davis M F'] (['NRC/NMSS'])
+URL: https://www.nrc.gov/docs/ML1929/ML19291C776.pdf
+----------------------------------------
+
+
+
+
+
+
+
+
+2 
+ 
+
+Inspector Notes 
+ 
+On July 22 – 24, 2019, a team of NRC inspectors conducted inspection activities at Hitachi 
+Zosen Corporation, Ariake Works (HZA) to verify and assess Orano Transnuclear (TN) 
+Americas’ compliance with Title 10 of the Code of Regulations (10 CFR) Part 72 requirements 
+for the design, modification, fabrication, assembly, testing, and procurement of the NUHOMS 
+Dry Sh

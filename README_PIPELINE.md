@@ -1,7 +1,7 @@
-# End-to-End Pipeline: ADAMS Corpus -> Local Safety Analyst
+# Nuclear Safety Record Search Engine pipeline set-up guide
 
-This ties together everything into one runnable stack: pull the corpus from
-ADAMS, spin up Qwen3 + Open WebUI + your independent ChromaDB engine in
+This set-uup guide ties together everything into one runnable stack: pull the corpus from
+ADAMS, spin up Qwen3 + Open WebUI + the independent ChromaDB engine in
 Docker, and populate both the chat UI's knowledge base and your own search
 engine from the same source file.
 

@@ -1,0 +1,18 @@
+Accession Number: ML15105A346
+Title: NSAL-15-2 - Impact of a Break in the Reactor Coolant Pump No. 1 Seal Leak-off Line Piping on Seal Leakage During a Loss of Seal Cooling Event.
+Document Type: Part 21 Correspondence
+Document Date: 2015-03-23
+Docket Number: 05000244, 05000247, 05000250, 05000251, 05000261, 05000266, 05000269, 05000272, 05000275, 05000280, 05000281, 05000282, 05000286, 05000289, 05000301, 05000306, 05000311, 05000315, 05000316, 05000320, 05000322, 05000323, 05000327, 05000328, 05000334, 05000338, 05000339, 05000348, 05000364, 05000369, 05000370, 05000390, 05000391, 05000395, 05000412, 05000413, 05000414, 05000423, 05000443, 05000444, 05000445, 05000446, 05000454, 05000455, 05000456, 05000457, 05000482, 05000483, 05000498, 05000499
+Author: ['Crane J T'] (['Westinghouse Electric Co, LLC'])
+URL: https://www.nrc.gov/docs/ML1510/ML15105A346.pdf
+----------------------------------------
+
+
+Westinghouse Non-Proprietary Class 3 
+
+Electronically approved records are authenticated in the electronic document management system 
+
+This is a notification of a recently identified potential safety issue pertaining to basic components supplied by Westinghouse. 
+This information is being provided so that you can conduct a review of this issue to determine if any action is required. 
+
+1000 Westi

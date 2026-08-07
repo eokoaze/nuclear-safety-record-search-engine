@@ -1,6 +1,4 @@
 """
-title: Nuclear Safety Record Search
-author: (your name)
 description: Searches the independent Python + ChromaDB analysis engine for
     relevant nuclear safety records (inspection reports, Part 21 correspondence,
     etc.) and returns them to the model as retrieved context.

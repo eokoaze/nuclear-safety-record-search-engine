@@ -1,0 +1,33 @@
+Accession Number: ML20038A148
+Title: J. L. Shepherd & Associates - NRC Form 591M Part 1, Inspection Report No. 15000004/2020001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2020-01-27
+Docket Number: 15000004
+Author: ['Ragland R C'] (['NRC/RGN-I/DNMS'])
+URL: https://www.nrc.gov/docs/ML2003/ML20038A148.pdf
+----------------------------------------
+
+
+.. 
+NRC FORM 591M PART 1 
+(07-2012)' 
+
+U.S. NUCLEAR REGULATORY COMMISSION 
+
+10 CFR 2.201 
+
+SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+
+1. LICENSEE/LOCATION INSPECTED: 
+
+J. L. Shepherd & Associates 
+1010 Arroyo Avenue 
+San Fernando, CA 91340 
+
+2. NRC/REGIONAL OFFICE 
+
+REPORT NUMBER(S) 2020001 
+
+U.S. Nuclear Regulatory Commission 
+Region I, 2100 Renaissance Blvd, Suite 100 
+King of Prussia

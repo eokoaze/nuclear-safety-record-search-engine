@@ -1,0 +1,21 @@
+Accession Number: ML23048A141
+Title: 2023-001 GNF NCS Document Request.
+Document Type: Inspection Report Correspondence, Letter
+Document Date: 2022-12-01
+Docket Number: 07001113
+Author: ['Sippel T'] (['NRC/RGN-II/DFFI'])
+URL: https://www.nrc.gov/docs/ML2304/ML23048A141.pdf
+----------------------------------------
+
+
+From: Timothy Sippel
+To: Phillip.Ollis@ge.com; Paulson, Lon E. (GE Power Portfolio)
+Cc: Rohner, Jonathan A (GNF); Joel Rivera Ortiz
+Subject: Upcoming NCS Inspection
+Date: Wednesday, December 21, 2022 1:58:00 PM
+Attachments: 2023-001 GNF NCS Document Request.docx
+
+Phil, Lon,
+ 
+I’ll be conducting a nuclear criticality safety at your facility during the week of January 30,
+2023. Which will use Inspe

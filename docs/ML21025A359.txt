@@ -1,0 +1,26 @@
+Accession Number: ML21025A359
+Title: Midwest Cardiology Associates - NRC Form 592M, Inspection Report 03036540/2021001 (DNMS)
+Document Type: Administrative Form, NRC, Inspection Report
+Document Date: 2021-01-19
+Docket Number: 03036540
+Author: ['Craffey R J'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2102/ML21025A359.pdf
+----------------------------------------
+
+
+NRC FORM 592M U.S.NUCLEARREGULATORYCOMMISSION
+(10-2020) w
+
+( MaterialsInspectionRecord
+
+1.LicenseeName: 2.DocketNumber(s): 3.LicenseNumber(s)
+
+MidwestCardiology Associates 030-36540 21-32502-01
+4.ReportNumber(s): 5.Date(s)ofInspection:
+
+2021-001 January19,2021
+6.inspector(s): 7.ProgramCode(s): 8.Priority:9.inspectionGuidanceUsed:
+
+RyanCraffey 02201 5 IP87130
+
+10.LicenseeContactName(s): 11.License

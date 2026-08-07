@@ -1,0 +1,33 @@
+Accession Number: ML19064B361
+Title: IP 88104 Decommissioning Inspection Procedure for Fuel Cycle Facilities Superseded by ML22010A143
+Document Type: Inspection Report
+Document Date: 2019-10-09
+Docket Number: 
+Author: ['Chapman G'] (['NRC/NMSS/DDUWP'])
+URL: https://www.nrc.gov/docs/ML1906/ML19064B361.pdf
+----------------------------------------
+
+
+ 
+
+Issue Date:  10/09/19 1 88104 
+
+ NRC INSPECTION MANUAL NMSS/DUWP 
+
+ INSPECTION PROCEDURE 88104 
+
+ 
+ 
+
+DECOMMISSIONING INSPECTION PROCEDURE 
+FOR FUEL CYCLE FACILITIES 
+
+ 
+ 
+PROGRAM APPLICABILITY:  IMC 2600 
+ 
+ 
+88104-01 INSPECTION OBJECTIVES 
+ 
+01.01 To determine if licensed decommissioning activities are being conducted in a manner 
+that will protect the health and safety of workers and the ge

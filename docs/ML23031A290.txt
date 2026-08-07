@@ -1,0 +1,30 @@
+Accession Number: ML23031A290
+Title: 2022 IP 71130.03 IR Report 8
+Document Type: Inspection Report
+Document Date: 2023-02-02
+Docket Number: 
+Author: [] (['NRC/NSIR/DSO/SPEB'])
+URL: https://www.nrc.gov/docs/ML2303/ML23031A290.pdf
+----------------------------------------
+
+
+Baseline Inspection Completion with Certification Information 
+By Site
+
+IR Report 8
+
+Region No: 1        Site: Beaver Valley (BV) IPC Cycle: 2022
+
+Procedure IPE Code Title Frequency
+Sample 
+Completed
+
+IMC Min 
+Completion 
+Sample % Status Note Certify Date / By
+
+71130.03 SG Contingency Response - FOF Testing Triennial 1 1 100% Complete C 06/09/2022 - Berry, Joshua K
+
+Site Totals: 1
+
+Page 1 of 191/

@@ -1,0 +1,33 @@
+Accession Number: ML18151B001
+Title: Missouri Department of Transportation - NRC Form 591M Part 1, Inspection Report 03018363/2018001.
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2018-05-21
+Docket Number: 03018363
+Author: ['Draper J', 'Folch L N'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML1815/ML18151B001.pdf
+----------------------------------------
+
+
+NRC FORM 591M PART 1 U.S. NUCLEAR REGULATORY COMMISSION 
+(07-2012) 
+
+10CFR 2-201 SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+1. LICENSEE/LOCATION INSPECTED: 
+
+Missouri Department of Transportation 
+105 West Capital Avenue 
+P.O. Box270 
+Jefferson City, MO 65102 
+
+REPORT NUMBER(S) 2018001 
+3. DOCKET NUMBER(S) 
+
+030-18363 
+
+LICENSEE: 
+
+2. NRG/REGIONAL OFFICE 
+
+4. LICENSE NUMBER(S) 
+
+24-20415

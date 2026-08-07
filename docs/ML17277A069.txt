@@ -1,0 +1,25 @@
+Accession Number: ML17277A069
+Title: IR 07109228/2017-201, May 9-17, June 6, July 21, and September 8, 2017, at Wilmington, NC, and Sunol, CA, NRC Form 591S, Safety Inspection Report and Compliance Inspection, Inspector's Notes and Cover Sheet (Docket Nos.: 71-0254, and 71-0170).
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2017-09-08
+Docket Number: 07100170, 07100254, 07109228
+Author: ['Love E C'] (['NRC/NMSS/DSFM/IOB'])
+URL: https://www.nrc.gov/docs/ML1727/ML17277A069.pdf
+----------------------------------------
+
+
+
+
+
+
+
+
+2 
+ 
+
+Inspector Notes 
+ 
+The Model No. 2000 transportation packaging assembly of interest consists of an overpack and 
+a cask using a High Performance Insert (HPI) and Material Basket (MB) to carry Co-60 source 
+rods.  Since the HPI and MB are not an authorized content in CoC No. 9228, revision 26, GEH 
+requested and received a onetime authorization to ship Co-60 source rods using the Model

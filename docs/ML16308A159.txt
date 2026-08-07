@@ -1,0 +1,33 @@
+Accession Number: ML16308A159
+Title: State of Missouri Emergency Management Agency -  NRC Form 591M Parts 1 & 3, Inspection Report 03007247/2016001 (DNMS).
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2016-10-20
+Docket Number: 03007247
+Author: ["O'Dowd D P"] (['NRC/RGN-III/DNMS/MIB'])
+URL: https://www.nrc.gov/docs/ML1630/ML16308A159.pdf
+----------------------------------------
+
+
+NRC FORM 591M PART 1 U.S. NUCLEAR REGULATORY COMMISSION 
+(07-2012) 
+1ocFR2.2o1 SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+
+1. LICENSEE/LOCATION INSPECTED: 
+
+State of Missouri 
+Emergency Management Agency 
+2302 Militia Drive 
+Jefferson City, Missouri 65102 
+
+REPORT NUMBER(S) 2016-001 
+3. DOCKET NUMBER(S) 
+
+030-07247 
+
+LICENSEE: 
+
+2. NRC/REGIONAL OFFICE 
+
+4. LICENSE NUMBER(S) 
+
+24-07974-03

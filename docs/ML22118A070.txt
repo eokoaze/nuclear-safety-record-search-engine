@@ -1,0 +1,41 @@
+Accession Number: ML22118A070
+Title: Federal Mogul Powertrain; NRC Form 592, Inspection Report 03039257/2022001 (DNMS)
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2022-04-05
+Docket Number: 03039257
+Author: ['Craffey R J'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2211/ML22118A070.pdf
+----------------------------------------
+
+
+U.S. NUCLEAR REGULA TORY COMMISSION 
+
+Materials Inspection Record 
+
+1. Licensee Name: 2. Docket Number(s): 3. License Number(s) 
+
+Federal Mogul Powertrain, LLC 030-39257 21-35622-01 
+
+4. Report Number(s): 
+
+2022-001 
+
+6. lnspector(s): 
+
+Ryan Craffey 
+
+10. Licensee Contact Name(s): 
+
+Karly St. Aubin - RSO 
+
+13. Inspection Type: 
+
+D Routine 
+
+D Non-Routine 
+
+[Z] Initial 
+
+[Z] Announced 
+
+D Unannoun

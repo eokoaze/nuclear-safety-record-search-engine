@@ -1,0 +1,27 @@
+Accession Number: ML20329A361
+Title: Datalog LWT, Inc. - NRC Form 592M, Inspection Report 15000035/20200001 (DNMS)
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2020-11-04
+Docket Number: 15000035
+Author: ['Craffey R'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2032/ML20329A361.pdf
+----------------------------------------
+
+
+NRC FORM 592M U.S.NUCLEARREGULATORYCOMMISSION
+(10-2020) w
+
+( MaterialsInspectionRecord
+
+1.LicenseeName: 2.DocketNumber(s): 3.LicenseNumber(s)
+
+DatalogLWT,Inc. d/b/a Cordax 150-00035 GLper150.20/OK-32157-01
+4.ReportNumber(s): 5.Date(s)ofInspection:
+
+2020-001 November4,2020
+
+6.inspector(s): 7.ProgramCode(s): 8.Priority:9.inspectionGuidanceUsed:
+
+RyanCraffey 03111 3 IP87123
+
+10.LicenseeContactName(s

@@ -1,0 +1,23 @@
+Accession Number: ML21112A210
+Title: Huntington Ingalls, Inc., NRC Form 591M Part 1, Inspection Report No. 03006585/2021001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2021-02-01
+Docket Number: 03006585
+Author: ['Pfingsten J B'] (['NRC/RGN-I'])
+URL: https://www.nrc.gov/docs/ML2111/ML21112A210.pdf
+----------------------------------------
+
+
+NRC FORM 591MPART1 U.S.NUCLEARREGULATORYCOMMISSION
+(07-2012)
+10CFR 2.201 MFm MPEBM EPET MD GMPUMG MPEBM
+1.LICENSEE/LOCATION INSPECTED 2.NRC/REGIONALOFFICE
+
+HuntingtonIngalls Incorporated Region1
+4101WashingtonAve 2100RenaissanceBlvd
+DepartmentO39,Building 134-2 Suite100
+NewportNews,VA23607-2770 KingofPrussia,PA19406-2713
+
+REPORTNUMBER(s)2021001
+
+3.DOCKETNUMBER(S) 4. LICENSENUMBER(S) 5.DATE(S)OFIN

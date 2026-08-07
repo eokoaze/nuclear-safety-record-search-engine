@@ -1,0 +1,35 @@
+Accession Number: ML19336B908
+Title: Texas A&M University - NRC Form 591M Part 1, NRC Inspection Report 03001066/2019001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2019-10-21
+Docket Number: 03001066
+Author: ['Bolger A B', 'Dykert J C'] (['NRC/RGN-IV/DNMS'])
+URL: https://www.nrc.gov/docs/ML1933/ML19336B908.pdf
+----------------------------------------
+
+
+NRC FORM 591M PART 1 
+(4-2008) 
+
+U.S. NUCLEAR REGULATORY COMMISSION 
+
+10 CFR 2.201 
+
+SAFETY INSPECTION REPORT AND COMPLIANCE INSPECTION 
+
+1. LICENSEE/LOCATION INSPECTED: 
+Texas A&M University 
+1111 Research Parkway 
+College Station, Texas 77843 
+
+REPORT NO.: 2019-001 
+3. DOCKET NUMBER 
+
+030-01066 
+
+LICENSEE: 
+
+2. NRG/REGIONAL OFFICE 
+
+U.S. Nuclear Regulatory Commission 
+Region IV, 1600 East Lamar

@@ -1,0 +1,24 @@
+Accession Number: ML23237B258
+Title: Nuclear Regulatory Commission Vendor Inspection Report of Ansys Corporation 99902113/2023201, Notice of Violations, And Notice of Nonconformances
+Document Type: Inspection Report, Letter, Notice of Non-Conformance, Notice of Violation
+Document Date: 2023-09-07
+Docket Number: 99902113
+Author: ['Kavanagh K A'] (['NRC/NRR/DRO/IQVB'])
+URL: https://www.nrc.gov/docs/ML2323/ML23237B258.pdf
+----------------------------------------
+
+
+Guylene Collard
+Director of Quality Assurance 
+Ansys Corporation
+2600 Ansys Drive
+Canonsburg, PA 15317
+
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION 
+REPORT OF ANSYS CORPORATION NO. 99902113/2023-201, NOTICE 
+OF VIOLATIONS, AND NOTICE OF NONCONFORMANCES
+
+Dear Ms. Collard:
+
+On June 26 – 30, 2023, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an 
+inspection at the Ansys C

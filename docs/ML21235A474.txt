@@ -1,0 +1,26 @@
+Accession Number: ML21235A474
+Title: IR 03035444/2021001(DNMS) - NRC Form 592, Licensee: Scheurer Hospital. License: 21-32250-01 / Docket: 030-35444 / Planner: 20211802753
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2021-08-10
+Docket Number: 03035444
+Author: ['Craffey R'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2123/ML21235A474.pdf
+----------------------------------------
+
+
+NRC FORM 592M U.S.NUCLEARREGULATORYCOMMISSION
+(10-2020) w
+
+( MaterialsInspectionRecord
+
+1.LicenseeName: 2.DocketNumber(s): 3.LicenseNumber(s)
+
+ScheurerHospital 030-35444 21-32250-01
+4.ReportNumber(s): 5.Date(s)ofInspection:
+
+2021-001 August10,2021
+6.inspector(s): 7.ProgramCode(s): 8.Priority:9.inspectionGuidanceUsed:
+
+RyanCraffey 02121 5 IP87130
+
+10.LicenseeContactName(s): 11.Licensee E-mailAddre

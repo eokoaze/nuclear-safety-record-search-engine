@@ -1,0 +1,27 @@
+Accession Number: ML20356A171
+Title: Advanced Heart & Vascular Care - NRC Form 592M, Inspection Report 03039204/2020001 (DNMS)
+Document Type: Inspection Manual, Inspection Report
+Document Date: 2020-12-17
+Docket Number: 03039204
+Author: ['Craffey R'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2035/ML20356A171.pdf
+----------------------------------------
+
+
+NRC FORM 592M U.S.NUCLEARREGULATORYCOMMISSION
+(10-2020) w
+
+( MaterialsInspectionRecord
+
+1.LicenseeName: 2.DocketNumber(s): 3.LicenseNumber(s)
+
+AdvancedHeart& Vascular Care 030-39204 21-35571-01
+4.ReportNumber(s): 5.Date(s)ofInspection:
+
+2020-001 December17,2020
+
+6.inspector(s): 7.ProgramCode(s): 8.Priority:9.inspectionGuidanceUsed:
+
+RyanCraffey 02201 5 IP87130
+
+10.LicenseeContactName(s): 11.Licen

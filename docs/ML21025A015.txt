@@ -1,0 +1,26 @@
+Accession Number: ML21025A015
+Title: GAF Materials Corporation, NRC Form 592M, Inspection Report 03029571/2021001 (DNMS); Planner: 20203502687
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2021-01-20
+Docket Number: 03029571
+Author: ['Craffey R'] (['NRC/RGN-III'])
+URL: https://www.nrc.gov/docs/ML2102/ML21025A015.pdf
+----------------------------------------
+
+
+NRC FORM 592M U.S.NUCLEARREGULATORYCOMMISSION
+(10-2020) w
+
+( MaterialsInspectionRecord
+
+1.LicenseeName: 2.DocketNumber(s): 3.LicenseNumber(s)
+
+GAFMaterialsCorporation 030-29571 13-24808-01
+4.ReportNumber(s): 5.Date(s)ofInspection:
+
+2021-001 January20,2021
+6.inspector(s): 7.ProgramCode(s): 8.Priority:9.inspectionGuidanceUsed:
+
+RyanCraffey 03120 5 87124
+
+10.LicenseeContactName(s): 11.Licensee E-mai

@@ -1,0 +1,29 @@
+Accession Number: ML21153A199
+Title: United Hospital Center, NRC Form 591M Part 1, Inspection Report No. 03003375/2021001
+Document Type: Inspection Report, Safety and Compliance Inspection Record, NRC Form 591
+Document Date: 2021-05-20
+Docket Number: 03003375
+Author: ['Seeley S W'] (['NRC/RGN-I/DNMS/MB'])
+URL: https://www.nrc.gov/docs/ML2115/ML21153A199.pdf
+----------------------------------------
+
+
+NRC FORM 591MPART1 U.S.NUCLEARREGULATORYCOMMISSION
+(07-2012)
+10CFR 2.201 gqp gq q p g9 py p
+
+1.LICENSEE/LOCATION INSPECTED 2.NRC/REGIONALOFFICE
+
+UnitedHospitalCenter Region1
+327MedicalParkDrive 2100RenaissanceBlvd
+Bridgeport,WV26330 Suite100
+
+KingofPrussia,PA19406-2713
+
+REPORTNUMBER(s)2021001
+
+3.DOCKETNUMBER(S) 4. LICENSE NUMBER(S) 5.DATE(S)OFINSPECTION
+
+030-03375 47-01458-01 05/20/2021
+
+LICENSEE
