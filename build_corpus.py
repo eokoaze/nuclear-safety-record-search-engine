@@ -5,7 +5,7 @@ Public Search API, segmented and paginated to work around the 1,000-result
 cap per query.
 
 Usage:
-    export ADAMS_API_KEY="your-subscription-key-here"
+    export ADAMS_API_KEY=""
     python build_corpus.py --doc-types "Inspection Report" "Part 21 Correspondence" \
         --start-year 2015 --end-year 2025 --out corpus.jsonl
 
