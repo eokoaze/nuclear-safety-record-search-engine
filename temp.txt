@@ -37,3 +37,24 @@ docker compose up -d analysis-engine
 
 curl http://localhost:8010/health          # should report a document count > 0
 
+-----------------------------
+
+export ADAMS_API_KEY="your-subscription-key"
+rm -f data/corpus.jsonl
+python build_corpus.py --doc-types "Inspection Report" --start-year 2024 --end-year 2024 --out data/corpus.jsonl
+
+
+wc -l data/corpus.jsonl                     # how many you actually pulled
+head -n 1000 data/corpus.jsonl > data/_1k.jsonl && mv data/_1k.jsonl data/corpus.jsonl
+
+python enrich_corpus.py --in data/corpus.jsonl --out data/corpus.jsonl
+
+python convert_corpus.py --corpus data/corpus.jsonl --out ./docs
+python setup_knowledge_base.py --docs-dir ./docs --name "NRC Safety Records v3" --api-key PASTE-OPENWEBUI-KEY
+
+docker compose stop analysis-engine
+docker volume ls | grep -i chroma          # get the chroma_store volume name
+docker volume rm <that-volume-name>
+docker compose up -d analysis-engine
+
+curl http://localhost:8010/health          # should report ~1000 documents
