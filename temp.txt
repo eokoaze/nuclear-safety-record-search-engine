@@ -1,0 +1,39 @@
+python - <<'EOF'
+import json
+recs = [json.loads(l) for l in open('data/corpus.jsonl', encoding='utf-8') if l.strip()]
+print("records:", len(recs))
+print("fields:", list(recs[0].keys()))
+for r in recs[:5]:
+    acc = r.get('accession_number') or r.get('AccessionNumber') or '?'
+    print(acc, "content chars:", len(r.get('content') or ''))
+EOF
+
+
+
+
+
+pip install requests
+export ADAMS_API_KEY="your-subscription-key"     # PowerShell: $env:ADAMS_API_KEY="..."
+python enrich_corpus.py --in data/corpus.jsonl --out data/corpus.jsonl
+
+
+
+
+# 1. Rebuild the per-document text files from the enriched corpus
+python convert_corpus.py --corpus data/corpus.jsonl --out ./docs
+
+# 2. Reload the Open WebUI knowledge base (use a fresh name to avoid duplicates)
+python setup_knowledge_base.py --docs-dir ./docs --name "NRC Safety Records v2" --api-key PASTE-OPENWEBUI-KEY
+
+
+
+
+docker compose stop analysis-engine
+docker volume ls | grep -i chroma          # find the chroma_store volume name
+docker volume rm <that-volume-name>
+docker compose up -d analysis-engine
+
+
+
+curl http://localhost:8010/health          # should report a document count > 0
+
